@@ -1,0 +1,20 @@
+{
+  "name": "JS-3rd-Assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "3rdjs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel fetch.html",
+    "build": "parcel build fetch.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "dependencies": {
+    "axios": "^0.25.0"
+  }
+}
